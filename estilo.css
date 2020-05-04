@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    background-color: red;
+}
+
+h2{
+    text-align: center;
+}
+
+#imgGeral{
+   margin-left: 300px;
+}
+
+h3{
+    text-align: center;
+}
+
+
+#rodape{
+    color: darkgrey;
+}
+
+#contato{
+    background-color: red;
+    color: white;
+   
+}
+
+#contatenos{
+    text-align: center;
+}
+
+#gd{
+    background-color: rgb(250, 154, 86);
+}
+#gi{
+    background-color: silver;
+}
+#ei{
+    background-color: red;
+}
+#sa{
+    background-color: rgb(130, 122, 238);
+}
+#mi{
+    background-color: green;
+}
+#zero{
+background-color: rgb(167, 231, 240);
+}
